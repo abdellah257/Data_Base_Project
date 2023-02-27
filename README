@@ -1,0 +1,22 @@
+Travail réalisé par : Mustapha ADIOUANE, Abdellah BELAID, Mouad BOUCHNAF, Amine EL BOUZID, Abdellah OUADII
+
+Cette archive contient les éléments suivants : 
+
+* Dossier BDsql : 
+Contient : 
+- Fichier script_&_transactions.sql : 
+Contient le script des requetes SQL et des transactions qu'on a utilisées pour traiter le sujet.
+
+- Fichier cration_peuplement.sql : 
+Contient les requêtes SQL pour créer et peupler notre base de données.
+
+* Dossier BDjava : 
+Contient : 
+- dossier src : ApplicationUser.java qui est l'application demandée, ApplicationBD.java qui est une application permettant 
+de se connecter au serveur oracle avec ses logins et de saisir des requêtes SQL directement dans le terminal.
+
+- dossier bin : où viendront se loger les fichiers .class issus de la compilation.
+
+- Makefile : permet de compiler et d'exécuter les fichiers src.
+
+- README : contient les instructions pour pouvoir compiler et exécuter grâce au Makefile.    
